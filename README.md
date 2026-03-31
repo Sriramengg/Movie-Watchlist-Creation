@@ -13,7 +13,6 @@ This project is a simple **Watchlist Manager** that allows users to:
 The project is implemented in:
 
 * 🐍 Python (CLI-based application)
-* 🌐 JavaScript (Browser-based version using prompts)
 
 ---
 
@@ -31,8 +30,6 @@ The project is implemented in:
 ## 🛠️ Technologies Used
 
 * Python (JSON, file handling)
-* JavaScript (basic browser interaction)
-* HTML (for web version)
 
 ---
 
@@ -42,7 +39,6 @@ The project is implemented in:
 watchlist-project/
 │
 ├── watchlist.py          # Python version
-├── datab.json            # Stores user data
 ├── index.html            # JavaScript version
 └── README.md             # Project documentation
 ```
@@ -58,15 +54,6 @@ watchlist-project/
 
 ```
 python watchlist.py
-```
-
----
-
-### 🌐 JavaScript Version
-
-1. Open `index.html` in any browser
-2. Use popup prompts to interact
-
 ---
 
 ## 💡 Example Usage
@@ -84,7 +71,6 @@ python watchlist.py
 ## ⚠️ Limitations
 
 * No password encryption (basic security)
-* JavaScript version uses popup UI (not user-friendly)
 * No database (only JSON file)
 
 ---
