@@ -1,4 +1,4 @@
-# 🎬 Watchlist Manager (Python & JavaScript)
+# 🎬 Watchlist Manager (Python)
 
 ## 📌 Overview
 
